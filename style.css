@@ -1,0 +1,163 @@
+body {
+	background-color:#867C56;
+	/*background-image: url("bg.png");*/
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.title td {
+	font-weight:bold;
+	border-bottom: 1px solid black;
+	text-align:center;
+}
+
+.information td {
+	text-align:center;	
+	height: 25px;
+}
+
+.salaries {
+	margin-left:0px;
+}
+
+.homeRuns {
+	margin-left:0px;
+	width: 350px;
+}
+
+.homeRuns2 {
+	margin-left:0px;
+	width: 300px;
+	border-left:1px solid black;
+	padding-left: 8px;
+}
+
+.BattingAvg {
+	margin-left:0px;
+}
+
+.BattingAvg2 {
+	margin-left:0px;
+	width:350px;
+	border-left:1px solid black;
+	padding-left: 8px;
+}
+
+.partion1 {
+	float: left;
+	display: inline-block;
+	width: 49%;
+}
+
+.partion2 {
+	float:left;
+	display: inline-block;
+	width: 49%;
+}
+
+.partion1BA {
+	float: left;
+	display: inline-block;
+	width: 52%;
+}
+
+.partion2BA {
+	float:left;
+	display: inline-block;
+	width: 46%;
+}
+
+#container {
+	width:100%;
+}
+
+.pad {
+	padding-left: 10px;	
+}
+
+.pad2 {
+	padding-left: 20px;	
+}
+
+.teams {
+	margin-left: 35px;	
+}
+
+#playerHead {
+	width:100%;
+}
+
+.img {
+	float:left;
+	display:inline-block;
+	width: 38%;
+	height: 2500px;
+	padding-left: 10px;
+}
+
+.name {
+	float:left;
+	display:inline-block;
+	width:60%;
+}
+
+#footer {
+	display:block;
+	background-color: #333;
+	height: 50px;
+	font-size: 12px;
+}
+
+#footer p {
+	padding: 15px;
+	color: white;	
+}
+
+.partion1 p {
+	padding-left: 30px;	
+}
+
+.total td {
+	border-top: 1px solid black;
+	text-align:center;	
+}
+
+.totalbot td {
+	border-bottom: 1px solid black;
+	text-align:center;	
+}
+
+.searchResults {
+	padding-left: 20px;	
+}
+
+.homeImg {
+	padding-left: 50px;	
+}
+
+.enjoy {
+	padding-left:0px;
+}
